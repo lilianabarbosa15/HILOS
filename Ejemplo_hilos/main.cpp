@@ -1,6 +1,6 @@
 #include <iostream> // std::cout
 #include <chrono>   // std::chrono::seconds
-#include <thread>   // Una de las libería que permitirá hacer uso de hilos
+#include <thread>   // Una de las liberías que permitirán hacer uso de hilos
 
 void func(bool& empezar){
     while(!empezar)
